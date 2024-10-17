@@ -1,2 +1,2 @@
-# portfolio-updated-version2
-this is my 2nd updated version of portfolio website
+# personal-portfoli0
+this is my final updated portfolio website in which i added my all projects
